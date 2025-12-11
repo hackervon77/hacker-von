@@ -1,0 +1,7 @@
+{
+  "name": "Copy of UCC Shuttle Track",
+  "description": "A comprehensive campus shuttle tracking system for the University of Cape Coast, featuring real-time tracking, AI-powered assistance, and administrative management tools.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
